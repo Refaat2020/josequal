@@ -1,0 +1,1 @@
+const String kUrl = "https://api.pexels.com/v1/curated?page=1&per_page=20";
